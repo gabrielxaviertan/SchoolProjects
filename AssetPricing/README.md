@@ -1,4 +1,4 @@
-This folder consist of mini projects completed in August 2021 for the module Asset Pricing (SMU MS Quantitative Finance) taught by Prof Wang Wei Mun
+This folder consist of mini projects completed in August 2021 for the module Asset Pricing (SMU MS Quantitative Finance) taught by Prof Wang Wei Mun.
 These mini projects were completed by Gabriel Tan
 
 Below are the rough summaries of the mini Projects:
